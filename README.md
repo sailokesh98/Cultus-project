@@ -114,7 +114,7 @@ This project explicitly extracts and visualizes:
 
 ```
 .
-├── nbeats_full_project.py   # Complete end-to-end implementation
+├── ADVANCED TIME SERIES FORECASTING.py   # Complete end-to-end implementation
 ├── README.md                # Project documentation
 ```
 
@@ -140,7 +140,7 @@ pip install numpy torch matplotlib scikit-learn statsmodels
 
 ### 2. Run the project
 ```
-python nbeats_full_project.py
+ADVANCED TIME SERIES FORECASTING.py
 ```
 
 ---
